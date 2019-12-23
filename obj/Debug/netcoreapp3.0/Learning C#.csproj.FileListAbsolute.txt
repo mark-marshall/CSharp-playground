@@ -1,0 +1,11 @@
+/Users/mark/Desktop/Learning C#/bin/Debug/netcoreapp3.0/Learning C#
+/Users/mark/Desktop/Learning C#/bin/Debug/netcoreapp3.0/Learning C#.deps.json
+/Users/mark/Desktop/Learning C#/bin/Debug/netcoreapp3.0/Learning C#.runtimeconfig.json
+/Users/mark/Desktop/Learning C#/bin/Debug/netcoreapp3.0/Learning C#.runtimeconfig.dev.json
+/Users/mark/Desktop/Learning C#/bin/Debug/netcoreapp3.0/Learning C#.dll
+/Users/mark/Desktop/Learning C#/bin/Debug/netcoreapp3.0/Learning C#.pdb
+/Users/mark/Desktop/Learning C#/obj/Debug/netcoreapp3.0/Learning C#.csprojAssemblyReference.cache
+/Users/mark/Desktop/Learning C#/obj/Debug/netcoreapp3.0/Learning C#.AssemblyInfoInputs.cache
+/Users/mark/Desktop/Learning C#/obj/Debug/netcoreapp3.0/Learning C#.AssemblyInfo.cs
+/Users/mark/Desktop/Learning C#/obj/Debug/netcoreapp3.0/Learning C#.dll
+/Users/mark/Desktop/Learning C#/obj/Debug/netcoreapp3.0/Learning C#.pdb
