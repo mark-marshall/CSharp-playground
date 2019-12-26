@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mark/Desktop/Learning C#/Learning C#.csproj": {}
+    "/Users/mark/Desktop/C#/Learning C#.csproj": {}
   },
   "projects": {
-    "/Users/mark/Desktop/Learning C#/Learning C#.csproj": {
+    "/Users/mark/Desktop/C#/Learning C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mark/Desktop/Learning C#/Learning C#.csproj",
+        "projectUniqueName": "/Users/mark/Desktop/C#/Learning C#.csproj",
         "projectName": "Learning C#",
-        "projectPath": "/Users/mark/Desktop/Learning C#/Learning C#.csproj",
+        "projectPath": "/Users/mark/Desktop/C#/Learning C#.csproj",
         "packagesPath": "/Users/mark/.nuget/packages/",
-        "outputPath": "/Users/mark/Desktop/Learning C#/obj/",
+        "outputPath": "/Users/mark/Desktop/C#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mark/.nuget/NuGet/NuGet.Config"
